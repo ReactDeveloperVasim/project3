@@ -1,0 +1,19 @@
+.main{
+      margin: 10px;
+      padding:10px;
+      background-color: skyblue;
+      border: 5px solid blueviolet;
+      display: flex;
+
+
+}
+
+.sub{
+      margin: 5px;
+      padding: 10px;
+      background-color: crimson;
+      color: white;
+      border: 5px solid darkmagenta;
+      border-radius: 20px;
+      width: 350px;
+}
